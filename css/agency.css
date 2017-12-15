@@ -89,8 +89,8 @@ body {
     padding: 13px;
     text-transform: uppercase;
     color: white;
-    border: 0;
-    background-color: #fed136;
+    border: solid 1px white;
+    background-color: #212529ba;
     font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
   #mainNav .navbar-brand {
     color: #fed136;
