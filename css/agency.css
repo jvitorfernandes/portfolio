@@ -135,7 +135,7 @@ body {
 header.masthead {
   text-align: center;
   color: white;
-  background-image: url("../img/header-bg.jpg");
+  background-image: url("../img/bg2.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -144,8 +144,9 @@ header.masthead {
   -o-background-size: cover;
   background-size: cover; 
   height: 100vh;
-/*    background-color:black;
-    background-blend-mode: color;*/
+      background-color: #212529;
+    background-blend-mode: soft-light;
+
 }
   header.masthead .intro-text {
     padding-top: 150px;
